@@ -45,5 +45,29 @@ ul {
 }
 
 .home {
+  float: left;
+  width: 50%;
+  border: 3px solid #a63f38;
+}
 
+.cereals {
+  float: left;
+  width: 50%;
+  border: 3px solid #a63f38;
+}
+
+.legumes {
+  float: right;
+  border: 3px solid #a63f38;
+  overflow: hidden;
+}
+
+.left {
+  float: left;
+  width: 10%;
+}
+
+.right {
+  float: right;
+  width: 10%;
 }
