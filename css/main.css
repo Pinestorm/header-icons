@@ -42,32 +42,36 @@ ul {
   padding: 0;
   list-style: none;
   margin: 0;
+  background-color: #d05c2e;
 }
 
 .home {
   float: left;
-  width: 50%;
+  width: 33%;
   border: 3px solid #a63f38;
-}
-
-.cereals {
-  float: left;
-  width: 50%;
-  border: 3px solid #a63f38;
+  background-color: #d05c2e;
 }
 
 .legumes {
   float: right;
+  width: 33%;
   border: 3px solid #a63f38;
-  overflow: hidden;
+  background-color: #d05c2e;
+}
+
+.cereals {
+  float: right;
+  width: 34%;
+  border: 3px solid #a63f38;
+  background-color: #d05c2e;
 }
 
 .left {
   float: left;
-  width: 10%;
+  width: 40px;
 }
 
 .right {
   float: right;
-  width: 10%;
+  width: 40px;
 }
